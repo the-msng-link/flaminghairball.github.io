@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "DTS Introduction"
-date:   2018-02-13 23:56:10 -0800
+title:  "Making Alien Cruisers Nicer"
+date:   2018-02-26 22:57:10 -0800
 categories: dts game
 ---
 Right now my Alien Cruisers look like this:
