@@ -4,6 +4,16 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 # layout: home
 ---
+👋🏼Welcome
+
+I build iOS apps for [Epic Games](https://epicgames.com/)
+
+🏍 Travel
+
+I ride motorcycles whenever the sun is out (or when it's not)
+
+👓Workbench
+
 <ul>
   {% for post in site.posts %}
     <li>
