@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "DTS Introduction"
 date:   2018-02-13 23:56:10 -0800
 categories: dts game

@@ -1,5 +1,4 @@
 ---
-layout: post
 title:  "Making Alien Cruisers Nicer"
 date:   2018-02-26 22:57:10 -0800
 categories: dts game
